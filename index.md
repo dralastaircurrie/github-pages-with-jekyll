@@ -1,3 +1,9 @@
-# Welcome to my blog
+# Welcome to my blog for learning Github Pages
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. Currently, I know a bit about:
+* Git
+* Markdown
+
+and little about:
+* Jekyll
+* Ruby.
